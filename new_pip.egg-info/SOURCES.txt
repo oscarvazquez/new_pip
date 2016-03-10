@@ -1,0 +1,7 @@
+setup.py
+new_pip/__init__.py
+new_pip.egg-info/PKG-INFO
+new_pip.egg-info/SOURCES.txt
+new_pip.egg-info/dependency_links.txt
+new_pip.egg-info/not-zip-safe
+new_pip.egg-info/top_level.txt
